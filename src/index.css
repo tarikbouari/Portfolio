@@ -1,12 +1,7 @@
-
-  @import 'tailwindcss/base';
-  @import 'tailwindcss/components';
-  @import 'tailwindcss/utilities';
-
-/* stylelint-disable csstree/validator */
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
+/* stylelint-disable font-family-no-missing-generic-family-keyword */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
 
 body {
   background-color: #000300;
