@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => (
-  <div className=" w-full p-4">
-    <nav className="container mx-auto h-[70px] w-[80%] text-white flex justify-between items-center ">
+  <div className=" w-full">
+    <nav className=" h-[70px] text-white flex justify-between items-center px-8">
       <span>TB</span>
       <ul className="flex justify-between w-60 ">
         <li>
