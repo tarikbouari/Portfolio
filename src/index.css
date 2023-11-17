@@ -4,7 +4,7 @@
 @import 'tailwindcss/utilities';
 
 body {
-  background-color: #000300;
+  background-color: #0A192F;
   font-family: Open Sauce, arial, sans-serif;
   color: #fff;
 }
@@ -17,3 +17,12 @@ body {
 .heading {
   font-family: Anton;
 }
+
+/* @media (min-width: 1300px) {
+
+  .head-ctn {
+    height: 60vh;    
+  }
+} */
+
+

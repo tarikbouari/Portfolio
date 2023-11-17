@@ -3,11 +3,13 @@ import About from './components/About';
 import Work from './components/work';
 import Contact from './components/Contact';
 import Header from './components/Header';
+import Navbar from './components/Nav';
 import './index.css';
 
 function App() {
   return (
-    <div className="App ">
+    <div className="App">
+      <Navbar />
       <Header />
       <About />
       <Work />
