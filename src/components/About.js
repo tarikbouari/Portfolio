@@ -13,7 +13,7 @@ import rails from '../images/rails-logo.png';
 import Skill from './Skills';
 
 const About = () => (
-  <div className="w-full mx-auto md:p-6 xl:p-10">
+  <div className="w-full mx-auto md:p-6 xl:p-10" id="about">
     <div className="container  px-4 py-4 mt-5 mx-auto flex flex-col gap-4 xl:pt-[8rem] ">
       <div className=" flex  items-center px-12">
         <div className=" flex items-center gap-2 border px-4 py-2 rounded-full">
@@ -26,29 +26,28 @@ const About = () => (
         <div className="p-4">
           <h3 className="text-xl md:text-3xl">
             Every  developer
-            has it's
+            has it
             <span className="text-[#52eeca]"> own story</span>
           </h3>
           <p className="mt-4">
             {' '}
-            Hello!  my name is tarik bouari, i'm a fullstack developer and UI designer.
+            Hello!  my name is tarik bouari, i'm a fullstack developer and UI designer from Ghana.
             I have 3 years experience building digital products for startups and businesses.
             <br />
             <br />
 
             My interest in web development come from my abitlity to solve problems and
-            my dedication to always bring something new and original to the table whenever
-            I involve myself in any work.
+            my dedication to always bring something new and original to the table.
             <br />
             <br />
             For the past 2 years, I joined Microverse where
             I worked remotely on real world projects using different technologies with
             others developers around the world. It's was great experience for me because on top
-            of the technical skills , I gained various professional skills such as remote-work,
+            of the technical skills , I gained soft professional skills such as remote-work,
             working in a cross diverse enviroment,  Meet projects highly deadlines,
             communicate effectively.
           </p>
-          <p className="text-[#76ab9e] py-2">I'm currently open for news opportunities.</p>
+          <p className="text-[#76ab9e] py-2">I'm currently open for new opportunities.</p>
           <Skill />
         </div>
         <div className="flex flex-col gap-6 w-30 px-4">
