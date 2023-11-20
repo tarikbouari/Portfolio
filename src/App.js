@@ -1,9 +1,10 @@
 import Footer from './components/Footer';
 import About from './components/About';
-import Work from './components/work';
 import Contact from './components/Contact';
+import Project from './components/Project';
 import Header from './components/Header';
 import Navbar from './components/Nav';
+import Design from './components/Design';
 import './index.css';
 
 function App() {
@@ -12,8 +13,8 @@ function App() {
       <Navbar />
       <Header />
       <About />
-      <Work />
-      <Footer />
+      <Project />
+      <Design />
       <Contact />
       <Footer />
 
