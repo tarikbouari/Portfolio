@@ -54,3 +54,23 @@ body {
   color: #52eeca;
   transform: translateY(-0.5rem);
 }
+
+/* .accordion-section {
+  overflow: hidden;
+}
+
+.accordion-content {
+  overflow: hidden;
+  transition: max-height 0.3s ease-out; Adjust the duration and timing function as needed 
+}
+*/
+
+.open {
+  background-color: #112240;
+  padding: 0.7rem;
+}
+
+.closed {
+  max-height: 0;
+  transition: all 0.3s ease-out;
+}
