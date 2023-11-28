@@ -24,3 +24,33 @@ body {
     height: 60vh;
   }
 } */
+
+.bnbg {
+  background-image: url('./images/aire.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.abcss {
+  background-image: url('./images/ab3d.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.cerc {
+  background-image: url('./images/cercle.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+.res svg {
+  transition: transform 0.7s;
+}
+
+.res svg:hover {
+  color: #52eeca;
+  transform: translateY(-0.5rem);
+}
