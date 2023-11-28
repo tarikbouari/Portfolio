@@ -30,9 +30,9 @@ const Contact = () => {
         <div className=" flex flex-col  gap-4 py-7 ">
           <div className="flex flex-col justify-center items-center gap-2 px-8 py-8 ">
             <img src={profile} alt="profile" className="w-[100px] h-[100px] rounded-full" />
-            <h4 className="text-2xl xl:text-3xl w-[50%] text-center"> Let’s talk about a project, collaboration or an idea you may have</h4>
+            <h4 className="text-2xl xl:text-3xl md:w-[50%] text-center"> Let’s talk about a project, collaboration or an idea you may have</h4>
           </div>
-          <form className="py-8 flex flex-col gap-4 px-20" ref={form} onSubmit={sendEmail}>
+          <form className="py-8 flex flex-col gap-4 md:w-[60%] mx-auto xl:px-8" ref={form} onSubmit={sendEmail}>
             <div className="flex gap-2">
               <label htmlFor="name" className="w-full">
                 name
