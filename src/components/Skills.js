@@ -24,7 +24,7 @@ const Skill = () => (
         <p className=""> UI Design</p>
       </div>
     </div>
-    <div className="py-4 md:py-0">
+    <div className="py-4 md:py-0 res">
       <h3 className="text-2xl text-[#52eeca]">  Platform and Tools   </h3>
       <div className="flex gap-4 py-4">
         <FaGithub className="w-5 h-5" />
