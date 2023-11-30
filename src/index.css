@@ -24,3 +24,53 @@ body {
     height: 60vh;
   }
 } */
+
+.bnbg {
+  background-image: url('./images/aire.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.abcss {
+  background-image: url('./images/ab3d.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.cerc {
+  background-image: url('./images/cercle.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+.res svg {
+  transition: transform 0.3s;
+}
+
+.res svg:hover {
+  color: #52eeca;
+  transform: translateY(-0.5rem);
+}
+
+/* .accordion-section {
+  overflow: hidden;
+}
+
+.accordion-content {
+  overflow: hidden;
+  transition: max-height 0.3s ease-out; Adjust the duration and timing function as needed
+}
+*/
+
+.open {
+  background-color: #112240;
+  padding: 0.7rem;
+}
+
+.closed {
+  max-height: 0;
+  transition: all 0.4s ease-out;
+}

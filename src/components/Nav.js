@@ -7,9 +7,20 @@ import { Link, animateScroll as scroll, scroller } from 'react-scroll';
 const Navbar = () => (
   <div className=" w-full fixed  bg-[#0A192F] ">
     <nav className=" h-[70px] text-white flex justify-between items-center px-12 cursor-pointer">
-      <span>TB</span>
+      <span className=" bg-[#132D3E] rounded-full p-2">
+        <Link
+          activeClass="active"
+          to="home"
+          spy
+          smooth
+          offset={-70}
+          duration={500}
+        >
+          TB
+        </Link>
+      </span>
       <ul className="flex justify-between w-60 ">
-        <li>
+        <li className="hover:text-[#52eeca]">
           {' '}
           <Link
             activeClass="active"
@@ -23,7 +34,7 @@ const Navbar = () => (
             About
           </Link>
         </li>
-        <li>
+        <li className="hover:text-[#52eeca]">
           {' '}
           <Link
             activeClass="active"
@@ -36,7 +47,7 @@ const Navbar = () => (
             Project
           </Link>
         </li>
-        <li>
+        <li className="hover:text-[#52eeca]">
           {' '}
           <Link
             activeClass="active"
