@@ -47,7 +47,7 @@ body {
 }
 
 .res svg {
-  transition: transform 0.7s;
+  transition: transform 0.3s;
 }
 
 .res svg:hover {
@@ -72,5 +72,5 @@ body {
 
 .closed {
   max-height: 0;
-  transition: all 0.3s ease-out;
+  transition: all 0.4s ease-out;
 }
