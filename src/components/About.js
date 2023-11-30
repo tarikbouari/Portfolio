@@ -45,7 +45,7 @@ const About = () => (
           <p className="text-[#76ab9e] py-2">I'm currently open for new opportunities.</p>
           <Skill />
         </div>
-        <div className="flex flex-col gap-6 w-30 px-4 ">
+        <div className="flex flex-col gap-6 w-30 px-4 cursor-pointer">
           <Accordionl titre="Language" />
           <Accordionf titre="Framwork" />
           <Accordiond titre="Database" />
