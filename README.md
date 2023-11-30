@@ -1,7 +1,5 @@
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# My-Portfolio-website
+# Portfolio
 
 ## Description
 
@@ -24,7 +22,7 @@ This is my portfolio website in which you can find all informations about my bac
 
 👤 **Tarik Bouari**
 
-- GitHub: [@tarikbouari](https://github.com/tarikbouari))
+- GitHub: [@tarikbouari](https://github.com/tarikbouari)
 - Twitter: [@tarikbouari](https://twitter.com/TarikBouari)
 - LinkedIn: [tarikbouari](https://www.linkedin.com/in/tarik-bouari-44b7191a6/)
 
