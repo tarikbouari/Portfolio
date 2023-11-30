@@ -57,7 +57,7 @@ const Accordionf = ({ titre }) => {
           </div>
         )
         : (
-          <div>
+          <div className={`transition-all duration-300 ease-in ${isExpanded ? 'closed' : 'hi'}`}>
             <hr />
           </div>
         )}
