@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/tarikbouaridev/static/css/main.46842900.css",
-    "main.js": "/tarikbouaridev/static/js/main.f15b73d8.js",
-    "static/media/gez.jpg": "/tarikbouaridev/static/media/gez.18d3ed56a787aba39cd5.jpg",
-    "static/media/lxui.jpg": "/tarikbouaridev/static/media/lxui.84566bf8537620cac267.jpg",
-    "static/media/cc.jpg": "/tarikbouaridev/static/media/cc.facf93572e5fbfadbaf4.jpg",
-    "static/media/ahoe.jpg": "/tarikbouaridev/static/media/ahoe.9506e74a3b0fbdc30cc7.jpg",
-    "static/media/vehii.jpg": "/tarikbouaridev/static/media/vehii.81678ed78727d577b279.jpg",
-    "static/media/AH0.jpg": "/tarikbouaridev/static/media/AH0.054c46212400a75941ec.jpg",
-    "static/media/css-logo.png": "/tarikbouaridev/static/media/css-logo.a327b6ba3be7d6e4fe57.png",
-    "static/media/aire.png": "/tarikbouaridev/static/media/aire.618fa2ec52b87e0dedc6.png",
-    "static/media/f4.jpg": "/tarikbouaridev/static/media/f4.4766c946e6598ca9c6fe.jpg",
-    "static/media/tail.png": "/tarikbouaridev/static/media/tail.9e40954dfa370a6676ed.png",
-    "static/media/rails-logo.png": "/tarikbouaridev/static/media/rails-logo.c1bcb9099288cee8841b.png",
-    "static/media/mysql-logo.png": "/tarikbouaridev/static/media/mysql-logo.5cd7d00e896999017cc5.png",
-    "static/media/postgresql-logo.png": "/tarikbouaridev/static/media/postgresql-logo.6faa3d48a17eca827eea.png",
-    "static/media/ab3d.png": "/tarikbouaridev/static/media/ab3d.f6fbfd8b3fe43836e04e.png",
-    "static/media/ruby-logo.png": "/tarikbouaridev/static/media/ruby-logo.5ffc30614f8a739ed267.png",
-    "static/media/html-logo.webp": "/tarikbouaridev/static/media/html-logo.c2479d03f4f1c4f4feb0.webp",
-    "index.html": "/tarikbouaridev/index.html",
-    "main.46842900.css.map": "/tarikbouaridev/static/css/main.46842900.css.map",
-    "main.f15b73d8.js.map": "/tarikbouaridev/static/js/main.f15b73d8.js.map"
+    "main.css": "/dev/static/css/main.6fd87345.css",
+    "main.js": "/dev/static/js/main.fc50a980.js",
+    "static/media/gez.jpg": "/dev/static/media/gez.18d3ed56a787aba39cd5.jpg",
+    "static/media/lxui.jpg": "/dev/static/media/lxui.84566bf8537620cac267.jpg",
+    "static/media/cc.jpg": "/dev/static/media/cc.facf93572e5fbfadbaf4.jpg",
+    "static/media/ahoe.jpg": "/dev/static/media/ahoe.9506e74a3b0fbdc30cc7.jpg",
+    "static/media/vehii.jpg": "/dev/static/media/vehii.81678ed78727d577b279.jpg",
+    "static/media/AH0.jpg": "/dev/static/media/AH0.054c46212400a75941ec.jpg",
+    "static/media/css-logo.png": "/dev/static/media/css-logo.a327b6ba3be7d6e4fe57.png",
+    "static/media/aire.png": "/dev/static/media/aire.618fa2ec52b87e0dedc6.png",
+    "static/media/f4.jpg": "/dev/static/media/f4.4766c946e6598ca9c6fe.jpg",
+    "static/media/tail.png": "/dev/static/media/tail.9e40954dfa370a6676ed.png",
+    "static/media/rails-logo.png": "/dev/static/media/rails-logo.c1bcb9099288cee8841b.png",
+    "static/media/mysql-logo.png": "/dev/static/media/mysql-logo.5cd7d00e896999017cc5.png",
+    "static/media/postgresql-logo.png": "/dev/static/media/postgresql-logo.6faa3d48a17eca827eea.png",
+    "static/media/ab3d.png": "/dev/static/media/ab3d.f6fbfd8b3fe43836e04e.png",
+    "static/media/ruby-logo.png": "/dev/static/media/ruby-logo.5ffc30614f8a739ed267.png",
+    "static/media/html-logo.webp": "/dev/static/media/html-logo.c2479d03f4f1c4f4feb0.webp",
+    "index.html": "/dev/index.html",
+    "main.6fd87345.css.map": "/dev/static/css/main.6fd87345.css.map",
+    "main.fc50a980.js.map": "/dev/static/js/main.fc50a980.js.map"
   },
   "entrypoints": [
-    "static/css/main.46842900.css",
-    "static/js/main.f15b73d8.js"
+    "static/css/main.6fd87345.css",
+    "static/js/main.fc50a980.js"
   ]
 }
