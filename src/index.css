@@ -61,7 +61,7 @@ body {
 
 .accordion-content {
   overflow: hidden;
-  transition: max-height 0.3s ease-out; Adjust the duration and timing function as needed 
+  transition: max-height 0.3s ease-out; Adjust the duration and timing function as needed
 }
 */
 
