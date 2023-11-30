@@ -11,7 +11,7 @@ This is my portfolio website in which you can find all informations about my bac
 ## Built With
 
 - React Js,
-- Tailwind CSS, 
+- Tailwind CSS 
 - following linters standards.
 - following github flows standards.
 
