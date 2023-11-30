@@ -14,10 +14,10 @@ This is my portfolio website in which you can find all informations about my bac
 - following github flows standards.
 
 ## Live demo 
-[click here](https://tarikbouari.github.io/My-Portfolio-Website/)
+[click here](https://tarikbouari.github.io/dev/)
 
 ## Source code 
-[click here](https://github.com/tarikbouari/tarikbouaridev/)
+[click here](https://github.com/tarikbouari/dev/)
 ## Authors
 
 👤 **Tarik Bouari**
