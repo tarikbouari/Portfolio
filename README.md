@@ -17,7 +17,7 @@ This is my portfolio website in which you can find all informations about my bac
 [click here](https://tarikbouari.github.io/My-Portfolio-Website/)
 
 ## Source code 
-[click here](https://github.com/tarikbouari/My-Portfolio-Website)
+[click here](https://github.com/tarikbouari/tarikbouaridev/)
 ## Authors
 
 👤 **Tarik Bouari**
