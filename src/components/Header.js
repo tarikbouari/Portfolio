@@ -31,7 +31,7 @@ const Header = () => (
         <p className=" "> I love building digital products for startups and businesses to enhance brand visibility and sales growth.</p>
       </div>
       <div className="flex flex-col gap-6">
-        <Link className="capitalize  w-[40%] px-3 py-2 mx-6 text-[#000300] bg-[#52eeca] rounded md:w-[15%] md:mx-8  md:px-4 md:py-3" to="home">Let' us Connect</Link>
+        <Link className="capitalize  w-[40%] px-2 py-2 mx-6  outline outline-2 outline-[#52eeca]  rounded hover:bg-[#4eccaf] xl:w-[12%] md:w-[15%] md:mx-8  md:px-4 md:py-3" to="home">Let' us Connect</Link>
         <div className="flex gap-2 px-8 res">
           <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" role="img" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-github">
             <title>GitHub</title>
