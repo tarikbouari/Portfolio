@@ -16,7 +16,7 @@ const Design = () => (
 
         <img src={img2} alt="ui" className="p-4" />
       </div>
-      <Link to="https://www.figma.com/community/file/1111449804431202403/car-rental-website-resoonsive-design" className="mt-4 text-center py-3 outline outline-2 outline-[#52eeca] mx-auto px-3 rounded hover:bg-[#4eccaf]"> <span className="text-[#a8b2d1] hover:text-[#fff] py-5">Explore more</span></Link>
+      <Link to="https://www.figma.com/community/file/1111449804431202403/car-rental-website-resoonsive-design" target="_blank" className="mt-4 text-center py-3 outline outline-2 outline-[#52eeca] mx-auto px-3 rounded hover:bg-[#4eccaf]"> <span className="text-[#a8b2d1] hover:text-[#fff] py-5">Explore more</span></Link>
     </div>
   </div>
 );

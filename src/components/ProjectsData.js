@@ -9,7 +9,7 @@ const data = [
     text: ' An ecommerce website for light and home decoration base in Accra, Nafex is specialized in providing exquisite lighting solutions that transform spaces, adding warmth, sophistication, and functionality. Designed and built using figma and WordPress   ',
     image: ahoeimg,
     tools: { frist: 'GitHub', second: 'Figma', third: 'Wordpress' },
-    links: { git: 'https://github.com/', source: 'www.nafexgh.com' },
+    links: { git: 'https://github.com/', source: 'https://nafexgh.com' },
   },
   {
     titre: 'Vehigo',
@@ -18,14 +18,14 @@ const data = [
     tools: {
       frist: 'GitHub', second: 'react', third: 'redux', fourth: 'Rails', fith: 'API',
     },
-    links: { git: 'https://github.com/', source: 'www.ahoechic.com' },
+    links: { git: 'https://github.com/', source: 'https://ahoechic.com' },
   },
   {
     titre: 'AhoeChic',
     text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non ',
     image: ahoe,
     tools: { frist: 'GitHub', second: 'react', third: 'redux' },
-    links: { git: 'https://github.com/', source: 'www.ahoechic.com' },
+    links: { git: 'https://github.com/', source: 'https://ahoechic.com' },
   },
   {
     titre: 'AfroTech',
