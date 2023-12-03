@@ -17,7 +17,7 @@ const About = () => (
         </div>
         <div className="border-t-[1px] border-[#F0F3FC]-600 w-[30%]"> </div>
       </div>
-      <div className=" md:grid grid-cols-2  gap-4 mt-5 p-8  ">
+      <div className=" lg:grid grid-cols-2  gap-4 mt-5 p-8  ">
         <div className="p-4">
           <h3 className="text-xl md:text-3xl">
             Every  developer
