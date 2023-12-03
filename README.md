@@ -1,14 +1,15 @@
 
-# My-Portfolio-website
+# Tarikbouridev
 
 ## Description
 
-This is my portfolio website in which you can find all informations about my background and my skills in tech, the languages i worked with, and all the project I've built with their respective stack. this site is build with react js and different npm libraries.
-
+This is my personal portfolio that highlights my skill and my background as a professional Full-stack developer. 
+you can find all  the different projects that i built with their respectives stack.  
 
 ## Built With
 
 - React Js,
+- npm libraries
 - Tailwind CSS 
 - following linters standards.
 - following github flows standards.
@@ -25,9 +26,6 @@ This is my portfolio website in which you can find all informations about my bac
 - GitHub: [@tarikbouari](https://github.com/tarikbouari))
 - Twitter: [@tarikbouari](https://twitter.com/TarikBouari)
 - LinkedIn: [tarikbouari](https://www.linkedin.com/in/tarik-bouari-44b7191a6/)
-
-
-
 
 ## 🤝 Contributing
 
@@ -46,10 +44,6 @@ Give a ⭐️ if you like this project!
 - etc.
 
 ## RESPONSIBLE VERSION 
-![tablet screen](https://user-images.githubusercontent.com/104431739/184697418-8c782150-6405-4b94-8807-9f3f956de23d.PNG)
-![screen size small](https://user-images.githubusercontent.com/104431739/184698856-cc09519c-8544-4539-935a-6dde67559016.PNG)
-![mokup responsible](https://user-images.githubusercontent.com/104431739/184699974-615ef875-1004-4e67-9533-4db590826e22.PNG)
-
 
 ## 📝 License
 

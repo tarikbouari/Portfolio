@@ -6,11 +6,11 @@ import { NavLink } from 'react-router-dom';
 import { Link } from 'react-scroll';
 
 const Header = () => (
-  <div className="flex justify-center items-center h-[70vh] md:h-[100vh] xl:h-[100vh] bnbg" id="home">
+  <div className="flex justify-center items-center h-[100vh] md:h-[100vh] xl:h-[100vh] bnbg" id="home">
     <div className=" mx-auto  container px-6 py-8 ">
       <div className=" flex  mx-auto px-8 xl: ">
         <div className="text-white ">
-          <h4 className="text-2xl md:text-2xl lg:text-7xl xl:text-8xl text-[#52eeca] ">
+          <h4 className="text-2xl md:text-4xl lg:text-7xl xl:text-8xl text-[#52eeca] md:mb-4 lg:mb-2">
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
@@ -24,7 +24,7 @@ const Header = () => (
               repeat={Infinity}
             />
           </h4>
-          <h2 className="text-2xl lg:text-7xl md:text-2xl  xl:text-9xl  ">  a Creative full-stack developer </h2>
+          <h2 className="text-2xl lg:text-7xl md:text-5xl  xl:text-9xl  ">  a Creative full-stack developer </h2>
         </div>
         <div className=" p-4 w-[20%]"> </div>
       </div>
@@ -39,7 +39,7 @@ const Header = () => (
           smooth
           offset={-70}
           duration={500}
-          className="capitalize  w-[40%] px-2 py-2 mx-6  outline outline-2 outline-[#52eeca] cursor-pointer rounded hover:bg-[#4eccaf] xl:w-[12%] md:w-[15%] md:mx-8  md:px-4 md:py-3"
+          className="capitalize px-2 py-2  ml-8 outline outline-2 outline-[#52eeca] cursor-pointer rounded hover:bg-[#4eccaf] conect  md:px-4 md:py-3"
         >Let' us Connect
         </Link>
         <div className="flex gap-2 px-8 res">

@@ -11,6 +11,7 @@ const Accordionf = ({ titre }) => {
   const handleToggle = (e) => {
     e.preventDefault();
     setExpanded(!isExpanded);
+    console.log(setExpanded);
   };
 
   return (
