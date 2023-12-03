@@ -2,7 +2,7 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import React from 'react';
 // import { Link } from 'react-router-dom';
-import { Link, animateScroll as scroll, scroller } from 'react-scroll';
+import { Link } from 'react-scroll';
 
 const Navbar = () => (
   <div className=" w-full fixed  bg-[#0A192F] ">
