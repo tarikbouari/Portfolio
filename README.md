@@ -1,6 +1,4 @@
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # My-Portfolio-website
 
 ## Description
@@ -51,8 +49,6 @@ Give a ⭐️ if you like this project!
 ![tablet screen](https://user-images.githubusercontent.com/104431739/184697418-8c782150-6405-4b94-8807-9f3f956de23d.PNG)
 ![screen size small](https://user-images.githubusercontent.com/104431739/184698856-cc09519c-8544-4539-935a-6dde67559016.PNG)
 ![mokup responsible](https://user-images.githubusercontent.com/104431739/184699974-615ef875-1004-4e67-9533-4db590826e22.PNG)
-
-
 
 
 ## 📝 License
