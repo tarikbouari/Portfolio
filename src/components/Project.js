@@ -20,13 +20,13 @@ const Project = () => (
             <div className="flex flex-col tool and platform md:flex-row mt-6 gap-4 w-full">
               <div className="tool md:w-[70%] xl:w-[60%]">
                 <h4 className="text-xl text-[#ccc]"> Tools</h4>
+
                 <div className="icon flex flex-wrap gap-4 mt-2 cursor-pointer">
-                  <p className="hover:text-[#52eeca]">{item.tools.frist}</p>
-                  <p className="hover:text-[#52eeca]">{item.tools.second}</p>
-                  <p className="hover:text-[#52eeca]">{item.tools.third}</p>
-                  <p className="hover:text-[#52eeca]">{item.tools.fourth}</p>
-                  <p className="hover:text-[#52eeca]">{item.tools.fith}</p>
+                  {Object.values(item.tools).map((tool) => (
+                    <p key={Object.length} className="hover:text-[#52eeca] bg-[#575F6F] px-2 rounded">{tool}</p>
+                  ))}
                 </div>
+
               </div>
               <div className="platform xl:w-[40%] md:ml-6">
                 <h4 className="text-xl text-[#ccc] "> Links</h4>
@@ -53,8 +53,8 @@ const Project = () => (
               </div>
             </div>
           </div>
-          <div className="bg-[#112240] w-fll p-8 flex items-center">
-            <img src={item.image} alt={item.titre} className="w-100 h-[auto]" />
+          <div className="bg-[#112240] w-fll p-8 flex items-center group ">
+            <img src={item.image} alt={item.titre} className="w-100 h-[auto] hover:scale-110 duration-300  inset-0  " />
           </div>
 
         </div>
