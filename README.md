@@ -6,7 +6,6 @@
 This is my personal portfolio that highlights my skill and my background as a professional Full-stack developer. 
 you can find all  the different projects that i built with their respectives stack.  
 
-
 ## Built With
 
 - React Js,
@@ -28,7 +27,6 @@ you can find all  the different projects that i built with their respectives sta
 - Twitter: [@tarikbouari](https://twitter.com/TarikBouari)
 - LinkedIn: [tarikbouari](https://www.linkedin.com/in/tarik-bouari-44b7191a6/)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -46,7 +44,6 @@ Give a ⭐️ if you like this project!
 - etc.
 
 ## RESPONSIBLE VERSION 
-
 
 ## 📝 License
 
