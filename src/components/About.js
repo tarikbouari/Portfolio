@@ -17,7 +17,7 @@ const About = () => (
         </div>
         <div className="border-t-[1px] border-[#F0F3FC]-600 w-[30%]"> </div>
       </div>
-      <div className=" md:grid grid-cols-2  gap-4 mt-5 p-8  ">
+      <div className=" lg:grid grid-cols-2  gap-4 mt-5 p-8  ">
         <div className="p-4">
           <h3 className="text-xl md:text-3xl">
             Every  developer
@@ -26,16 +26,15 @@ const About = () => (
           </h3>
           <p className="mt-4">
             {' '}
-            Hello!  my name is tarik bouari, i'm a fullstack developer and UI designer from Ghana.
-            I have 3 years experience building digital products for startups and businesses.
+            Hello!  my name is tarik bouari, i'm a fullstack developer and UI designer from Togo.
+            I have experience building digital products for startups and businesses.
             <br />
             <br />
-
             My interest in web development come from my abitlity to solve problems and
             my dedication to always bring something new and original to the table.
             <br />
             <br />
-            For the past 2 years, I joined Microverse where
+            For the past 2 years, I'm part of  Microverse organization where
             I worked remotely on real world projects with
             others developers around the world. It's was great experience for me because on top
             of the technical skills , I gained soft professional skills such as remote-work,
