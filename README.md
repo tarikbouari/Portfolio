@@ -15,10 +15,10 @@ you can find all  the different projects that i built with their respectives sta
 - following github flows standards.
 
 ## Live demo 
-[click here](https://tarikbouari.github.io/My-Portfolio-Website/)
+[click here](rr)
 
 ## Source code 
-[click here](https://github.com/tarikbouari/My-Portfolio-Website)
+[click here](rr)
 ## Authors
 
 👤 **Tarik Bouari**
@@ -41,7 +41,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc.
+- etc..
 
 ## RESPONSIBLE VERSION 
 
